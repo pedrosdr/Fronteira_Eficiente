@@ -1,0 +1,11 @@
+# RStudio
+.RData
+.Rhistory
+
+# Outros arquivos
+*.tmp
+*.py
+*.svg
+*.png
+*.docx
+ativos/*
